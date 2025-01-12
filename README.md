@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked bug in HTML and JavaScript. An element is hidden using JavaScript, but there's no mechanism to show it again, leading to a broken user experience. The solution provides a simple fix to this issue.
